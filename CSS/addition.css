@@ -1,0 +1,12 @@
+.result{
+    background-color: #19366d;
+    border: none;
+    border: black 2px solid ;
+    border-radius: 5px;
+}
+.result:active{
+    border: none;
+}
+.btn{
+    color: black;
+}
